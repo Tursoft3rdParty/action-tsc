@@ -40,4 +40,7 @@ jobs:
 **action-tsc** © [iCrawl](https://github.com/iCrawl)  
 Authored and maintained by iCrawl.
 
+# Resources
+https://help.github.com/en/actions/building-actions/creating-a-javascript-action
+
 > GitHub [@iCrawl](https://github.com/iCrawl) · Twitter [@iCrawlToGo](https://twitter.com/iCrawlToGo)
